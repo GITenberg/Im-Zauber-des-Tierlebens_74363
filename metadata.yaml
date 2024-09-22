@@ -1,11 +1,16 @@
 _repo: Im-Zauber-des-Tierlebens_74363
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74363-h/images/cover.jpg
 creator:
   author:
     agent_name: Lucanus, Friedrich von
     gutenberg_agent_id: '57467'
     url: http://www.gutenberg.org/2009/agents/57467
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74363#Im-Zauber-des-Tierlebens
 gutenberg_issued: '2024-09-03'
 gutenberg_type: Text
 identifiers:
